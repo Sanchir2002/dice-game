@@ -39,7 +39,7 @@ function initGame() {
 
   // Тоглогчдын нэрийг буцааж гаргах
   document.getElementById("name-0").textContent = "Санчир";
-  document.getElementById("name-1").textContent = "Тоглогч";
+  document.getElementById("name-1").textContent = Заяа";
 
   document.querySelector(".player-0-panel").classList.remove("winner");
   document.querySelector(".player-1-panel").classList.remove("winner");
